@@ -1,0 +1,6 @@
+name = "Single Node Queue"
+description = "Generates an admin page where users can identify a single node."
+package = Nodequeue
+core = 7.x
+version = "7.x-1.0"
+
